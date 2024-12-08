@@ -1,6 +1,6 @@
-#[macro_use] extern crate aoc;
+use aoc::aoc;
 
-#[aoc(2015, 05, 1)]
+#[aoc(2015, 5, 1)]
 fn main(input: &str) -> i32 {
     unimplemented!()
 }
